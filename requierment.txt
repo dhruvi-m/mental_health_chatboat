@@ -1,0 +1,4 @@
+gradio==4.27.0
+sentence-transformers==2.6.1
+pandas==2.2.2
+torch
